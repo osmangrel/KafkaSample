@@ -2,7 +2,7 @@
 
 Bu repo, Kafka'nın temel seviyede anlatımını ve proje örneklerini içermektedir. Node.js ve .NET Core teknolojilerini kullanarak hazırlanmış bir örnek proje bulunmaktadır.
 
-![sample](apachekafka.png))
+![sample](apachekafka.png)
 ## Başlangıç
 
 Bu adımlar, projenin yerel makinenizde çalışır hale getirilmesi için gereklidir.
@@ -48,6 +48,7 @@ Projeyi çalıştırmak için aşağıdaki komutları kullanabilirsiniz:
   dotnet run
   ```
 
+![sample](MS-syncproblem.gif)
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
