@@ -52,6 +52,4 @@ Projeyi çalıştırmak için aşağıdaki komutları kullanabilirsiniz:
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
-```
 
-Yukarıdaki düzenlemelerle, kod bloklarının düzgün bir şekilde kapatıldığına ve her adımın Markdown formatında doğru bir şekilde gösterildiğine dikkat edin. Ayrıca, Node.js ve .NET Core için linkler ekledim ki kullanıcılar doğrudan ilgili sayfalara yönlendirilebilsinler. Eğer başka bir yardıma ihtiyacınız olursa, lütfen bana bildirin!
